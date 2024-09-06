@@ -22,9 +22,9 @@
 
 1. Clone o repositório:
 
-   ```
-   git clone https://github.com/seuusuario/projeto-berlim.git
-   ```
+  ```
+  git clone https://github.com/seuusuario/projeto-berlim.git
+  ```
 
 2. Instale as dependências necessárias
 
